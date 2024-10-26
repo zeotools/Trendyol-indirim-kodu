@@ -1,0 +1,24 @@
+/* Eklenti için stil dosyası */
+.wrap {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.trendyol-widget {
+    background-color: #fff;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.trendyol-widget a {
+    color: #0073aa;
+    text-decoration: none;
+}
+
+.trendyol-widget a:hover {
+    text-decoration: underline;
+}
